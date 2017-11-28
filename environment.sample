@@ -6,7 +6,7 @@ environments:
       method: rolling-upgrade
     services:
       - name: front
-        external_url: frontxyz.sample-app.domain
+        external_url: fronta.sample-app.domain
         ssl: false
         port: 80
         env:
